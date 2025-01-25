@@ -1,101 +1,117 @@
-# Dotbase
+# Dotbase-ai
 <div align="center">
 
-![Dotbase Logo](https://dotbase.ai/logo.png)
+![Dotbase Banner](/api/placeholder/800/200)
 
-**Create agent-based workforces with drag-and-drop simplicity**
+*Building the future of agent-based development*
 
-[Website](https://dotbase.ai) • [Documentation](https://docs.dotbase.ai) • [Examples](https://dotbase.ai/examples) • [Enterprise](https://dotbase.ai/enterprise)
+[![GitHub Stars](https://img.shields.io/github/stars/dotbase?style=flat-square&logo=github)](https://github.com/dotbase)
+[![Discord](https://img.shields.io/discord/XXXXXX?style=flat-square&logo=discord)](https://discord.gg/dotbase)
+[![Twitter Follow](https://img.shields.io/twitter/follow/dotbaseai?style=flat-square&logo=twitter)](https://twitter.com/dotbase)
+
+[Website](https://dotbase.ai) • [Docs](https://docs.dotbase.ai) • [Blog](https://blog.dotbase.ai) • [Community](https://community.dotbase.ai)
 
 </div>
 
----
-
-## 🚀 Overview
-
-Dotbase is a powerful low-code platform that transforms how you build AI agent workforces. With our intuitive drag-and-drop interface, create sophisticated agent networks and export them as production-ready Python code.
-
-## ✨ Key Features
-
-- 🎯 **Visual Agent Design**: Drag-and-drop interface for workforce creation
-- 🔄 **Autogen Integration**: Built on Microsoft's Autogen framework
-- 🐍 **Python Export**: Generate production-ready Python code
-- 🛠️ **Custom Functions**: Add custom tools and capabilities
-- 🤝 **Multi-Agent Support**: Create collaborative agent networks
-
-## 🏗️ Architecture
-
-### Agents
-
-Our Autogen-based system supports four core components:
-
-| Agent Type | Description |
-|------------|-------------|
-| `Nexus` | Configurable AI agents with custom system prompts |
-| `Lumina` | NovaMind Assistant API integration with custom function support |
-| `Bridge` | Human-agent interaction interface |
-| `Synergy Hub` | Multi-agent collaboration hub |
-
-### Tools
-
-`Spark`
-- Integrate Python functions
-- Connect NovaMind Assistant functions
-- Add custom capabilities
-
-## 💻 Workstation
-
-### Node Operations
-
-```mermaid
-graph LR
-    A[Library Panel] -->|Drag & Drop| B[Workstation]
-    B -->|Connect| C[Agents]
-    B -->|Configure| D[Settings]
-```
-
-- **Add**: Drag components from Library Panel
-- **Connect**: Green handles indicate compatible connections
-- **Delete**: Right-click for context menu
-
-## 🚀 Deployment
-
-### Local Setup
-
-```bash
-# Install dependencies
-pip install pyautogen
-
-# Run exported script
-python your_workforce.py
-```
-
-### Replit Deployment
-
-1. Create Python project
-2. Add to `pyproject.toml`:
-   ```toml
-   [tool.poetry.dependencies]
-   pyautogen = "0.2.7"
-   ```
-3. Run your exported script
-
-## 🤝 Contributing
-
-We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for details.
-
-## 📄 License
-
-[MIT License](LICENSE)
-
-## 🆘 Support
-
-- Documentation: [docs.dotbase.ai](https://docs.dotbase.ai)
-- Enterprise: enterprise@dotbase.ai
-- Community: [Discord](https://discord.gg/dotbase)
-
----
+# Our Vision
 
 <div align="center">
-Made with ❤️ by Dotbase Team
+
+# 🎯 Transforming Agent Development
+
+## *Building Tomorrow's AI Today*
+
+</div>
+
+<div align="center" style="font-size: 1.2em; padding: 2em 0;">
+
+### We empower developers to create sophisticated AI workforces through intuitive visual development, transforming complex agent architectures into seamless workflows.
+
+</div>
+
+## 🚀 Mission Points
+
+- **Democratize AI Development**: Making multi-agent systems accessible to all developers
+- **Accelerate Innovation**: Reducing time-to-market for AI solutions
+- **Enable Collaboration**: Fostering a community of agent developers
+- **Drive Excellence**: Setting new standards in visual AI development
+
+<div align="center">
+
+---
+
+### *"Simplifying complexity, amplifying possibilities"*
+
+</div>
+
+## 🎯 Flagship Product
+
+<div align="center">
+
+### Dotbase-app
+*Visual Development Platform for Multi-Agent Systems*
+
+</div>
+
+Transform complex agent systems into intuitive workflows:
+
+- 🎨 Design agent networks visually
+- 🤖 Built on Microsoft's Autogen
+- 🔄 Export to production Python code
+- 🛠️ Integrate custom tools seamlessly
+- 📊 Debug agent interactions in real-time
+
+## 🚀 Core Technologies
+
+```mermaid
+graph TD
+    A[Visual Builder] --> B[Autogen Core]
+    B --> C[Custom Functions]
+    C --> D[Python Export]
+    D --> E[Production Deploy]
+```
+
+### Stack Overview
+```python
+tech_stack = {
+    "frontend": ["React", "TypeScript", "Tailwind"],
+    "backend": ["FastAPI", "Autogen", "PostgreSQL"],
+    "deployment": ["Docker", "Kubernetes", "AWS"]
+}
+```
+
+## 🌟 Features Matrix
+
+| Development | Deployment | Enterprise |
+|:----------:|:----------:|:----------:|
+| Visual Builder | One-Click Deploy | Team Management |
+| Code Export | Version Control | Access Control |
+| Custom Functions | Monitoring | Audit Logs |
+| Debug Tools | Scaling | SSO Integration |
+
+## 🛠️ Resources
+
+<div align="center">
+
+| Resource | Description |
+|:--------:|-------------|
+| [📚 Documentation](https://docs.dotbase.ai) | Complete guides and API reference |
+| [💻 Examples](https://github.com/dotbase/examples) | Ready-to-use templates |
+| [🎓 Tutorials](https://learn.dotbase.ai) | Step-by-step learning paths |
+| [👥 Community](https://community.dotbase.ai) | Join discussions and share ideas |
+
+</div>
+
+## 🌐 Connect
+
+- Enterprise: enterprise@dotbase.ai
+- Support: support@dotbase.ai
+- Security: security@dotbase.ai
+
+<div align="center">
+
+---
+
+*Transforming agent development through visual innovation*
+
 </div>
