@@ -6,7 +6,6 @@
 *Building the future of agent-based development*
 
 [![GitHub Stars](https://img.shields.io/github/stars/dotbase?style=flat-square&logo=github)](https://github.com/dotbase)
-[![Discord](https://img.shields.io/discord/XXXXXX?style=flat-square&logo=discord)](https://discord.gg/dotbase)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dotbaseai?style=flat-square&logo=twitter)](https://x.com/dotbase_ai)
 
 [Website](https://dotbase.ai) • [Docs](https://dotbase.gitbook.io/dotbase)
