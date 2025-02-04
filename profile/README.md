@@ -1,7 +1,7 @@
 # Dotbase-ai
 <div align="center">
 
-![Dotbase Banner](/api/placeholder/800/200)
+![Dotbase Banner]([/api/placeholder/800/200](https://i.imgur.com/UgGWBt5.png))
 
 *Building the future of agent-based development*
 
