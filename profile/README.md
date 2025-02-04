@@ -9,8 +9,7 @@
 [![Discord](https://img.shields.io/discord/XXXXXX?style=flat-square&logo=discord)](https://discord.gg/dotbase)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dotbaseai?style=flat-square&logo=twitter)](https://twitter.com/dotbase)
 
-[Website](https://dotbase.ai) • [Docs](https://docs.dotbase.ai) • [Blog](https://blog.dotbase.ai) • [Community](https://community.dotbase.ai)
-
+[Website](https://dotbase.ai) • [Docs](https://docs.dotbase.ai)
 </div>
 
 # Our Vision
@@ -97,14 +96,11 @@ tech_stack = {
 |:--------:|-------------|
 | [📚 Documentation](https://docs.dotbase.ai) | Complete guides and API reference |
 | [💻 Examples](https://github.com/dotbase/examples) | Ready-to-use templates |
-| [🎓 Tutorials](https://learn.dotbase.ai) | Step-by-step learning paths |
-| [👥 Community](https://community.dotbase.ai) | Join discussions and share ideas |
 
 </div>
 
 ## 🌐 Connect
 
-- Enterprise: enterprise@dotbase.ai
 - Support: support@dotbase.ai
 - Security: security@dotbase.ai
 
