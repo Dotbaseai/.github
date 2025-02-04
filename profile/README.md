@@ -97,10 +97,6 @@ tech_stack = {
 
 </div>
 
-## 🌐 Connect
-
-- Support: support@dotbase.ai
-- Security: security@dotbase.ai
 
 <div align="center">
 
