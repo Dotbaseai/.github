@@ -1,4 +1,4 @@
-# Dotbase-ai
+# Dotbase-ai ⚾
 <div align="center">
 
 ![Dotbase Banner](https://i.imgur.com/UgGWBt5.png)
