@@ -9,7 +9,7 @@
 [![Discord](https://img.shields.io/discord/XXXXXX?style=flat-square&logo=discord)](https://discord.gg/dotbase)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dotbaseai?style=flat-square&logo=twitter)](https://twitter.com/dotbase)
 
-[Website](https://dotbase.ai) • [Docs](https://docs.dotbase.ai)
+[Website](https://dotbase.ai) • [Docs](https://dotbase.gitbook.io/dotbase)
 </div>
 
 # Our Vision
@@ -94,8 +94,7 @@ tech_stack = {
 
 | Resource | Description |
 |:--------:|-------------|
-| [📚 Documentation](https://docs.dotbase.ai) | Complete guides and API reference |
-| [💻 Examples](https://github.com/dotbase/examples) | Ready-to-use templates |
+| [📚 Documentation](https://dotbase.gitbook.io/dotbase)| Complete guides and API reference |
 
 </div>
 
